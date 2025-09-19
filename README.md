@@ -90,3 +90,6 @@ AI: Hi there! How can I help you today?
 # The image screen shot from terminal
 
 ![screenshot](img/screenshot.png)
+
+<img width="1128" height="711" alt="Screenshot (373)" src="https://github.com/user-attachments/assets/a079ba0c-1b6d-40af-b024-a33bca1db74d" />
+
