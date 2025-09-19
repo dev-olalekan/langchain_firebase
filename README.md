@@ -22,7 +22,7 @@ This project integrates **LangChain**, **Google Firestore**, and **OpenAI** to b
   <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" height="40" alt="Firestore"/>
   <img src="https://avatars.githubusercontent.com/u/1342004?s=200&v=4" height="40" alt="Git"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/langchain.png" height="40" alt="LangChain"/>
+  <img src="https://github.com/langchain-ai/.github/raw/main/profile/logo.png" height="40" alt="LangChain"/>
   <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="40" alt="Google Cloud"/>
 </p>
 
