@@ -89,4 +89,4 @@ AI: Hi there! How can I help you today?
 
 # The image screen shot from terminal
 
-<img src="img/screenshot.png" width="200" alt="LangChain"/>
+![screenshot!](./img/screenshot.png)
