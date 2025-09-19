@@ -1,1 +1,4 @@
 <p align="left"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80"/> <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" width="60"/> <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-firestore.png" alt="Firestore" width="60"/> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60"/> <img src="https://python.langchain.com/assets/images/favicon.ico" alt="LangChain" width="60"/> <img src="https://openai.com/favicon.ico" alt="OpenAI" width="60"/> </p>
+
+git clone https://github.com/yourusername/langfirebase.git
+cd langfirebase
