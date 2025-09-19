@@ -33,7 +33,60 @@ This project integrates **LangChain**, **Google Firestore**, and **OpenAI** to b
 
 ### 1️⃣ Clone the repository
 
-```bash
 git clone https://github.com/your-username/langfirebase.git
 cd langfirebase
-```
+
+python -m venv .venv
+
+# Windows PowerShell
+
+.\.venv\Scripts\activate
+
+# Mac/Linux
+
+source .venv/bin/activate
+
+---
+
+# install python packages
+
+pip install -r requirements.txt
+
+---
+
+# Authenticate Google Cloud
+
+gcloud auth application-default login
+
+---
+
+### Check your access token: run this in code terminal vsc
+
+gcloud auth application-default print-access-token
+
+---
+
+# Running the Project
+
+python chat_model/chat_model_with_firebase.py
+
+---
+
+# Terminal or Cli Response
+
+Initializing Firestore Client...<br>
+Setting up Firestore Chat Message History...<br>
+Chat History Initialized.<br>
+Current Chat History: [ ]<br>
+Start chatting with the AI. Type 'exit' to quit.<br>
+
+---
+
+User: Hello <br>
+AI: Hi there! How can I help you today?
+
+---
+
+# The image screen shot from terminal
+
+<img src="img/screenshot.png" width="200" alt="LangChain"/>
